@@ -87,7 +87,7 @@ notebook @ file:///C:/b/abs_26737osg4x/croot/notebook_1700582146311/work
 notebook_shim @ file:///C:/b/abs_a5xysln3lb/croot/notebook-shim_1699455926920/work
 numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
 numpy @ file:///C:/b/abs_7267ja_mqz/croot/numpy_and_numpy_base_1701295083047/work/dist/numpy-1.26.2-cp311-cp311-win_amd64.whl#sha256=f4e43aff0bd2ec1e69abffbe07459b4dcf6ae207942d293dd3c14112aa00d380
-openai==1.3.9
+openai==3.19.2
 overrides @ file:///C:/b/abs_cfh89c8yf4/croot/overrides_1699371165349/work
 packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
 pandas @ file:///C:/b/abs_fej9bi0gew/croot/pandas_1702318041921/work/dist/pandas-2.1.4-cp311-cp311-win_amd64.whl#sha256=d3609b7cc3e3c4d99ad640a4b8e710ba93ccf967ab8e5245b91033e0200f9286
