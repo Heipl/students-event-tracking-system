@@ -20,8 +20,8 @@ class llm:
         prompt = f"{prompt_user}:\n{dataframe_str}\nSummary:"
 
         # Call the OpenAI API
-        response = openai.Completion.create(
-            engine="text-davinci-003",  # Use the "text-davinci-003" engine for GPT-3.5
+        response = openai.completions.create(
+            model="text-davinci-003",  # Use the "text-davinci-003" engine for GPT-3.5
             prompt=prompt,
             max_tokens=250,  # Adjust the max tokens based on your preference
             temperature=0.7,  # Adjust the temperature based on your preference
